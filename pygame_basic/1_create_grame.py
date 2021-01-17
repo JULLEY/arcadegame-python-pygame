@@ -8,7 +8,7 @@ screen_height = 640 # height
 screen = pygame.display.set_mode((screen_width, screen_height)) # 화면설정 screen변수로 선언
 
 # 화면 타이틀 설정
-pygame.display.set_caption("웅겹살의 game") # 게임 타이틀 set 
+pygame.display.set_caption("웅겹살의 오락실게임") # 게임 타이틀 set 
 
 # 이벤트 루프
 running = True # 게임이 진행중인가? 확인용 변수
