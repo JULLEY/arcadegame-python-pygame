@@ -76,7 +76,7 @@ while running:
 
     screen.blit(character, (character_x_pos, character_y_pos))
 
-    pygame.display.update() # 게임화면을 다시 그리기!
+    pygame.display.update() # 게임화면을 다시 그리기
 
 # pygame 종료
 pygame.quit()
